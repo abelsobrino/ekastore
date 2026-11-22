@@ -1,0 +1,13 @@
+
+# Dependencias y compilaciones
+**/node_modules/
+**/dist/
+**/target/
+
+# Credenciales y archivos locales
+.env
+.env.*
+**/.env
+**/.env.*
+.vscode/
+*.log

@@ -1,0 +1,10 @@
+
+{
+  "codigo": "P001",
+  "nombre": "Crema hidratante",
+  "descripcion": "Crema facial de cuidado personal",
+  "marca": "Natura",
+  "categoria": "Cuidado facial",
+  "precio": 45.90,
+  "modalidadDisponibilidad": "EN_STOCK"
+}
